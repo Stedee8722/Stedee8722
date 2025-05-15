@@ -1,6 +1,6 @@
 # Steven Doan
-I code in my free time, mostly self-taught, started out doing utility discord bots on Python, and game modding.
 ### AKA: Stedee / Stedee8722
+I code in my free time, mostly self-taught, started out doing utility Discord bots on Python, and game modding.
 
 - 🤔 Age: Prefer not to say (18+)
 - 😄 Pronouns: He/Him
