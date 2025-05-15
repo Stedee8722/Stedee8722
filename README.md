@@ -9,6 +9,7 @@
 
 ![GitHub stats](https://github-readme-stats-iota-mocha-40.vercel.app/api?username=Stedee8722&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
 
+## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%203%20mins-blue)
 
