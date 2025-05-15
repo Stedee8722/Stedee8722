@@ -1,4 +1,5 @@
 # Steven Doan
+I code in my free time, mostly self-taught, started out doing utility discord bots on Python, and game modding.
 ### AKA: Stedee / Stedee8722
 
 - 🤔 Age: Prefer not to say (18+)
