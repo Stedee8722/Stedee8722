@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.0%20thousand%20lines%20of%20code-blue)
 
@@ -32,21 +32,19 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   24 mins             █████████████████████░░░░   85.45 % 
-Java                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-INI                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Python                   4 hrs 4 mins        ██████████████████████░░░   89.77 % 
+JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  25 mins             ██████████████████████░░░   88.72 % 
-IntelliJ IDEA            3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dicey_Rewritten          25 mins             ██████████████████████░░░   88.72 % 
-Creative Mod Name        3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Dicey_Rewritten          4 hrs 27 mins       █████████████████████████   98.06 % 
+Py                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
- Last Updated on 24/05/2025 18:19:50 UTC
+ Last Updated on 24/05/2025 20:16:10 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
