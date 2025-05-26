@@ -12,15 +12,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-274%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 110.8 kB Used in GitHub's Storage 
- > 
-> 🏆 92 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,19 +30,19 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 4 mins        ██████████████████████░░░   89.77 % 
-JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   6 hrs 34 mins       ███████████████████████░░   92.42 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dicey_Rewritten          4 hrs 27 mins       █████████████████████████   98.06 % 
-Py                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Dicey_Rewritten          7 hrs 1 min         █████████████████████████   98.76 % 
+Py                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 
- Last Updated on 26/05/2025 18:21:07 UTC
+ Last Updated on 26/05/2025 20:17:33 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
