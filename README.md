@@ -20,8 +20,6 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 > 📦 110.8 kB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -43,5 +41,5 @@ Dicey_Rewritten          2 hrs 34 mins       ███████████�
 ```
 
 
- Last Updated on 02/06/2025 04:27:25 UTC
+ Last Updated on 02/06/2025 06:24:54 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
