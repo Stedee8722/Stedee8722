@@ -20,8 +20,6 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 > 📦 110.9 kB Used in GitHub's Storage 
  > 
-> 🏆 100 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -46,5 +44,5 @@ Creative Mod Name        22 mins             ████░░░░░░░�
 ```
 
 
- Last Updated on 18/06/2025 20:19:14 UTC
+ Last Updated on 18/06/2025 22:15:29 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
