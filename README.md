@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82.6%20thousand%20lines%20of%20code-blue)
 
@@ -32,19 +32,16 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 38 mins        ████████████████████░░░░░   78.85 % 
-Java                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Python                   1 hr 49 mins        ████████████████████████░   96.47 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-VS Code                  1 hr 42 mins        ████████████████████░░░░░   82.00 % 
-IntelliJ IDEA            22 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Dicey_Rewritten          1 hr 42 mins        ████████████████████░░░░░   82.00 % 
-Creative Mod Name        22 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Dicey_Rewritten          1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/06/2025 18:21:45 UTC
+ Last Updated on 19/06/2025 20:19:16 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
