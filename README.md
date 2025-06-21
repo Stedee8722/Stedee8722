@@ -46,5 +46,5 @@ Vencord                  33 mins             ██████░░░░░�
 ```
 
 
- Last Updated on 21/06/2025 01:16:55 UTC
+ Last Updated on 21/06/2025 03:10:57 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
