@@ -32,8 +32,8 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     30 mins             ████████████████░░░░░░░░░   64.07 % 
-JSON                     16 mins             █████████░░░░░░░░░░░░░░░░   35.93 % 
+Java                     30 mins             ████████████████░░░░░░░░░   64.06 % 
+JSON                     16 mins             █████████░░░░░░░░░░░░░░░░   35.94 % 
 
 🔥 Editors: 
 IntelliJ IDEA            46 mins             █████████████████████████   99.45 % 
@@ -45,5 +45,5 @@ Unknown Project          0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/06/2025 18:23:17 UTC
+ Last Updated on 30/06/2025 20:17:43 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
