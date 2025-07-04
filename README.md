@@ -18,9 +18,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 **🐱 My GitHub Data** 
 
-> 📦 111.0 kB Used in GitHub's Storage 
- > 
-> 🏆 112 Contributions in the Year 2025
+> 📦 111.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,5 +49,5 @@ charter-0.2.2            12 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 04/07/2025 03:15:58 UTC
+ Last Updated on 04/07/2025 04:26:45 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
