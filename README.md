@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.0%20thousand%20lines%20of%20code-blue)
 
@@ -20,7 +20,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 115 Contributions in the Year 2025
+> 🏆 118 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,5 +52,5 @@ Py                       0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/08/2025 16:22:47 UTC
+ Last Updated on 06/08/2025 18:26:11 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
