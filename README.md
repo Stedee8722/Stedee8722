@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.2%20thousand%20lines%20of%20code-blue)
 
@@ -41,7 +41,7 @@ Python                   23 mins             █░░░░░░░░░░�
 🔥 Editors: 
 Visual Studio            9 hrs 19 mins       ███████████████████████░░   93.55 % 
 VS Code                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
 LunchBox                 1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
@@ -52,5 +52,5 @@ BTVN1                    29 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/08/2025 18:22:19 UTC
+ Last Updated on 28/08/2025 20:17:31 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
