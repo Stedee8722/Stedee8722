@@ -20,7 +20,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 > 📦 111.3 kB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,5 +52,5 @@ BTVN1                    29 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/08/2025 20:16:47 UTC
+ Last Updated on 29/08/2025 22:14:33 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
