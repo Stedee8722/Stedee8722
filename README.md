@@ -20,8 +20,6 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 > 📦 111.3 kB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -52,5 +50,5 @@ BTH1_A                   30 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/09/2025 10:17:24 UTC
+ Last Updated on 02/09/2025 12:32:52 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
