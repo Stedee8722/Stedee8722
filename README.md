@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-324%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.2%20thousand%20lines%20of%20code-blue)
 
@@ -32,18 +32,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     4 mins              █████████████████████████   99.88 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Java                     1 hr 10 mins        █████████████░░░░░░░░░░░░   50.43 % 
+JSON                     41 mins             ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+Gradle                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+GitIgnore file           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Java Properties          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Charter                  4 mins              ████████████████████████░   97.86 % 
-The Broken Chains        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Creative Mod Name        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Creative Mod Name        1 hr 47 mins        ███████████████████░░░░░░   76.53 % 
+Plushie Test             16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+The Broken Chains        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+test                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Charter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 
- Last Updated on 11/09/2025 18:19:09 UTC
+ Last Updated on 11/09/2025 20:14:32 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
