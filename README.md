@@ -12,6 +12,8 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2015%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -26,23 +28,6 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
  > 
 > 🔑 2 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-JSON                     6 mins              █████████████░░░░░░░░░░░░   53.98 % 
-Java                     5 mins              ███████████░░░░░░░░░░░░░░   45.61 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Mixin Json Configuration 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-The Broken Chains        11 mins             █████████████████████████   99.86 % 
-Creative Mod Name        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-```
-
-
- Last Updated on 20/09/2025 18:19:17 UTC
+ Last Updated on 20/09/2025 20:14:34 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
