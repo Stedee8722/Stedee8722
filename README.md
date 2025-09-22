@@ -12,13 +12,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 111.4 kB Used in GitHub's Storage 
+> 📦 111.3 kB Used in GitHub's Storage 
  > 
 > 🏆 119 Contributions in the Year 2025
  > 
@@ -32,17 +32,19 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-JSON                     6 mins              ██████████████░░░░░░░░░░░   54.02 % 
-Java                     5 mins              ███████████░░░░░░░░░░░░░░   45.58 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Java                     18 mins             ███████████████████░░░░░░   74.58 % 
+JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-IntelliJ IDEA            11 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        11 mins             █████████████████████████   100.00 % 
+The Broken Chains        24 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/09/2025 18:22:12 UTC
+ Last Updated on 22/09/2025 20:17:07 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
