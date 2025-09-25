@@ -12,13 +12,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 111.3 kB Used in GitHub's Storage 
+> 📦 111.4 kB Used in GitHub's Storage 
  > 
 > 🏆 119 Contributions in the Year 2025
  > 
@@ -32,19 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     18 mins             ███████████████████░░░░░░   74.58 % 
-JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     51 mins             ████████████████████░░░░░   81.59 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+XML                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-IntelliJ IDEA            24 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 1 min          ████████████████████████░   97.94 % 
+VS Code                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        24 mins             █████████████████████████   100.00 % 
+The Broken Chains        34 mins             ██████████████░░░░░░░░░░░   54.42 % 
+HelloWorldNew            18 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+HelloWorld               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Creative Mod Name        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+test                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 
 
- Last Updated on 25/09/2025 18:23:17 UTC
+ Last Updated on 25/09/2025 20:17:49 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
