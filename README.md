@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91.7%20thousand%20lines%20of%20code-blue)
 
@@ -51,5 +51,5 @@ The Broken Chains        9 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/11/2025 04:22:48 UTC
+ Last Updated on 06/11/2025 06:25:36 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
