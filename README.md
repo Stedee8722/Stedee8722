@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91.7%20thousand%20lines%20of%20code-blue)
 
@@ -32,24 +32,18 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 19 mins       █████████████░░░░░░░░░░░░   53.22 % 
-MATLAB                   1 hr 33 mins        █████████░░░░░░░░░░░░░░░░   35.60 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Groovy                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Objective-C              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+MATLAB                   1 hr 38 mins        █████████████████████░░░░   84.76 % 
+JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Objective-C              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 31 mins       ██████████████░░░░░░░░░░░   57.68 % 
-VS Code                  1 hr 51 mins        ███████████░░░░░░░░░░░░░░   42.32 % 
+VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatLab                   1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   37.06 % 
-Class Diagram            1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   32.55 % 
-Creative Mod Name        41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Unknown Project          23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-The Broken Chains        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+MatLab                   1 hr 37 mins        █████████████████████░░░░   84.08 % 
+Unknown Project          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
 ```
 
 
- Last Updated on 06/11/2025 18:24:40 UTC
+ Last Updated on 06/11/2025 20:18:31 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
