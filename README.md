@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-91.7%20thousand%20lines%20of%20code-blue)
 
@@ -32,18 +32,18 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-MATLAB                   1 hr 38 mins        █████████████████████░░░░   84.76 % 
-JSON                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Objective-C              3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Python                   18 mins             █████████████░░░░░░░░░░░░   50.22 % 
+JSON                     13 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
+MATLAB                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MatLab                   1 hr 37 mins        █████████████████████░░░░   84.08 % 
-Unknown Project          18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Knucklebone_recreate     18 mins             █████████████░░░░░░░░░░░░   50.22 % 
+Unknown Project          18 mins             ████████████░░░░░░░░░░░░░   49.78 % 
 ```
 
 
- Last Updated on 07/11/2025 18:23:00 UTC
+ Last Updated on 07/11/2025 20:16:49 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
