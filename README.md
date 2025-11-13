@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.9%20thousand%20lines%20of%20code-blue)
 
@@ -32,17 +32,25 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   18 mins             ████████████████████░░░░░   80.11 % 
-MATLAB                   4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+C#                       2 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.06 % 
+Python                   1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+Java                     1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Binary                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
 
 🔥 Editors: 
-VS Code                  23 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.03 % 
+Visual Studio            2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.76 % 
+IntelliJ IDEA            1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
 
 🐱‍💻 Projects: 
-Knucklebone_recreate     18 mins             ████████████████████░░░░░   80.11 % 
-Unknown Project          4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Dicey_Rewritten          1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
+Class Diagram            1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+Sports                   57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+AnimalManagement         56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+StudentListManagement    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 ```
 
 
- Last Updated on 13/11/2025 18:24:06 UTC
+ Last Updated on 13/11/2025 20:19:10 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
