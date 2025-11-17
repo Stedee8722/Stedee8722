@@ -18,7 +18,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 **🐱 My GitHub Data** 
 
-> 📦 112.0 kB Used in GitHub's Storage 
+> 📦 111.9 kB Used in GitHub's Storage 
  > 
 > 🏆 159 Contributions in the Year 2025
  > 
@@ -52,5 +52,5 @@ AnimalManagement         56 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 17/11/2025 12:35:26 UTC
+ Last Updated on 17/11/2025 14:17:10 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
