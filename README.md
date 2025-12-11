@@ -12,15 +12,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 112.0 kB Used in GitHub's Storage 
- > 
-> 🏆 159 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,5 +49,5 @@ Unknown Project          16 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/12/2025 14:20:02 UTC
+ Last Updated on 11/12/2025 16:26:07 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
