@@ -14,7 +14,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.9%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-99.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -24,7 +24,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -51,5 +51,5 @@ Creative Mod Name        4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/12/2025 16:23:22 UTC
+ Last Updated on 17/12/2025 18:27:38 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
