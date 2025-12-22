@@ -20,8 +20,6 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 > 📦 114.2 kB Used in GitHub's Storage 
  > 
-> 🏆 165 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
@@ -51,5 +49,5 @@ The Broken Chains        0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/12/2025 20:19:42 UTC
+ Last Updated on 22/12/2025 22:18:03 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
