@@ -14,7 +14,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-417%20hrs%2026%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.98%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,5 +43,5 @@ Dicey_Rewritten          1 hr 1 min          ███████████�
 ```
 
 
- Last Updated on 01/01/2026 06:28:41 UTC
+ Last Updated on 01/01/2026 08:24:45 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
