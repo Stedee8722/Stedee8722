@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2016%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.98%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,17 +32,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       42 mins             ████████████████████████░   96.57 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+MATLAB                   1 hr 52 mins        ████████████████░░░░░░░░░   64.23 % 
+C#                       59 mins             ████████░░░░░░░░░░░░░░░░░   33.89 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Objective-C              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-Visual Studio            43 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        ████████████████░░░░░░░░░   64.90 % 
+Visual Studio            1 hr 1 min          █████████░░░░░░░░░░░░░░░░   35.10 % 
 
 🐱‍💻 Projects: 
-LaptopManagement         43 mins             █████████████████████████   100.00 % 
+MatLab                   1 hr 53 mins        ████████████████░░░░░░░░░   64.90 % 
+LaptopManagement         1 hr                █████████░░░░░░░░░░░░░░░░   34.36 % 
+LTNetLab04               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+StudentListManagement    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 
- Last Updated on 07/01/2026 18:27:54 UTC
+ Last Updated on 07/01/2026 20:21:17 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
