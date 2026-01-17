@@ -18,7 +18,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 **🐱 My GitHub Data** 
 
-> 📦 114.2 kB Used in GitHub's Storage 
+> 📦 114.3 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2026
  > 
@@ -49,5 +49,5 @@ LaptopLINQ               1 hr 45 mins        ██████░░░░░�
 ```
 
 
- Last Updated on 17/01/2026 08:21:43 UTC
+ Last Updated on 17/01/2026 10:17:28 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
