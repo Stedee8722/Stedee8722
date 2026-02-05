@@ -32,18 +32,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Objective-C              3 mins              █████████████░░░░░░░░░░░░   51.42 % 
-Python                   3 mins              ████████████░░░░░░░░░░░░░   47.95 % 
-MATLAB                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MatLab                   3 mins              █████████████░░░░░░░░░░░░   52.05 % 
-CoTL                     3 mins              ████████████░░░░░░░░░░░░░   47.95 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/02/2026 18:42:45 UTC
+ Last Updated on 05/02/2026 20:29:24 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
