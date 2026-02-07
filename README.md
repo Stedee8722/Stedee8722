@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-451%20hrs%2046%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.98%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,15 +32,17 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     15 mins             ███████████████████████░░   90.15 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Py                       15 mins             ██████████████████████░░░   89.49 % 
+Py_srs                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 ```
 
 
- Last Updated on 07/02/2026 18:30:09 UTC
+ Last Updated on 07/02/2026 20:22:23 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
