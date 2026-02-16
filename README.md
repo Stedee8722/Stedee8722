@@ -12,15 +12,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2028%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.55%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.17%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 114.6 kB Used in GitHub's Storage 
+> 📦 121.9 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2026
+> 🏆 4 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        ████████████████████████░   97.80 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python                   6 hrs               ████████████████████░░░░░   81.79 % 
+JSON                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 1 hr 54 mins        ██████████████████████░░░   89.21 % 
-Bot Template             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Knucklebone_recreate     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Py_srs                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Flockade                 7 hrs 7 mins        ████████████████████████░   97.07 % 
+Bot Template             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Knucklebone_recreate     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 
- Last Updated on 16/02/2026 18:37:58 UTC
+ Last Updated on 16/02/2026 20:26:15 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
