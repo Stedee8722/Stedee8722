@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%2043%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.17%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,20 +32,21 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs               ████████████████████░░░░░   81.79 % 
-JSON                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python                   12 hrs 32 mins      ███████████████████████░░   90.34 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 7 hrs 7 mins        ████████████████████████░   97.07 % 
-Bot Template             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Knucklebone_recreate     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Flockade                 13 hrs 38 mins      █████████████████████████   98.25 % 
+Bot Template             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Knucklebone_recreate     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 
- Last Updated on 17/02/2026 18:53:40 UTC
+ Last Updated on 17/02/2026 20:33:01 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
