@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,23 +32,21 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 14 mins      ███████████████████████░░   90.95 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Python                   12 hrs 52 mins      ███████████████████████░░   90.16 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 15 hrs 20 mins      ████████████████████████░   97.99 % 
-Bot Template             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Knucklebone_recreate     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-save-decryptor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Flockade                 14 hrs 6 mins       █████████████████████████   98.83 % 
+Knucklebone_recreate     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+save-decryptor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 
 
- Last Updated on 21/02/2026 18:29:24 UTC
+ Last Updated on 21/02/2026 20:20:28 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
