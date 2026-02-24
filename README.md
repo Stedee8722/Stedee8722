@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-468%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,21 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 23 mins       █████████████████████████   99.15 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   5 hrs 36 mins       █████████████████████████   98.66 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 9 hrs 22 mins       █████████████████████████   98.96 % 
-save-decryptor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Knucklebone_recreate     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Flockade                 5 hrs 21 mins       ████████████████████████░   94.30 % 
+Knucklebone_recreate     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+save-decryptor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 
 
- Last Updated on 24/02/2026 17:02:00 UTC
+ Last Updated on 24/02/2026 18:57:13 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
