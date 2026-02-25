@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-471%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%209%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,20 +32,18 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 36 mins       █████████████████████████   98.66 % 
-Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   4 hrs 40 mins       █████████████████████████   99.97 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 5 hrs 21 mins       ████████████████████████░   94.30 % 
-Knucklebone_recreate     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-save-decryptor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Flockade                 4 hrs 23 mins       ███████████████████████░░   93.80 % 
+Knucklebone_recreate     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
 ```
 
 
- Last Updated on 25/02/2026 17:04:46 UTC
+ Last Updated on 25/02/2026 19:01:49 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
