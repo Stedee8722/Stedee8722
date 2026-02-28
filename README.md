@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,20 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 31 mins       █████████████████████████   98.93 % 
+Python                   6 hrs 29 mins       █████████████████████████   98.92 % 
 Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 6 hrs 1 min         ███████████████████████░░   91.33 % 
-Knucklebone_recreate     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Flockade                 5 hrs 59 mins       ███████████████████████░░   91.29 % 
+Knucklebone_recreate     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 28/02/2026 18:28:18 UTC
+ Last Updated on 28/02/2026 20:21:28 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
