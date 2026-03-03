@@ -32,20 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 35 mins       █████████████████████████   98.75 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Python                   2 hrs 52 mins       ████████████████████████░   97.59 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 5 hrs 5 mins        ██████████████████████░░░   89.91 % 
-Knucklebone_recreate     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Flockade                 2 hrs 37 mins       ██████████████████████░░░   89.14 % 
+Knucklebone_recreate     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
+Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 ```
 
 
- Last Updated on 03/03/2026 18:42:17 UTC
+ Last Updated on 03/03/2026 20:28:37 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
