@@ -32,19 +32,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        ████████████████████████░   96.80 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Python                   15 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 10 mins       █████████████████████████   100.00 % 
+VS Code                  15 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Flockade                 1 hr 53 mins        ██████████████████████░░░   87.01 % 
-Knucklebone_recreate     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Dicey_Rewritten          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Flockade                 15 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/03/2026 18:00:22 UTC
+ Last Updated on 05/03/2026 19:23:20 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
