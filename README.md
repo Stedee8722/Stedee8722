@@ -32,15 +32,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/03/2026 18:33:00 UTC
+ Last Updated on 14/03/2026 20:23:44 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
