@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,16 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 5 mins         █████████████████████████   99.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Python                   2 hrs 18 mins       ███████████████████████░░   93.47 % 
+Java                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       ███████████████████████░░   93.64 % 
+IntelliJ IDEA            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
 
 🐱‍💻 Projects: 
-Flockade                 1 hr 6 mins         █████████████████████████   100.00 % 
+Flockade                 2 hrs 18 mins       ███████████████████████░░   93.64 % 
+The Broken Chains        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 
- Last Updated on 22/03/2026 18:32:18 UTC
+ Last Updated on 22/03/2026 20:22:28 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
