@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,20 +32,21 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 18 mins       ███████████████████████░░   93.47 % 
-Java                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Python                   2 hrs 29 mins       ███████████████████████░░   93.93 % 
+Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 18 mins       ███████████████████████░░   93.64 % 
-IntelliJ IDEA            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+VS Code                  2 hrs 29 mins       ████████████████████████░   94.09 % 
+IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
 
 🐱‍💻 Projects: 
-Flockade                 2 hrs 18 mins       ███████████████████████░░   93.64 % 
-The Broken Chains        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Flockade                 2 hrs 29 mins       ████████████████████████░   94.09 % 
+The Broken Chains        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Plushie Test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 23/03/2026 18:50:12 UTC
+ Last Updated on 23/03/2026 20:35:02 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
