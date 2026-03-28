@@ -32,20 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 46 mins       ████████████████████████░   94.63 % 
-Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Python                   2 hrs 44 mins       ████████████████████████░   94.58 % 
+Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       ████████████████████████░   94.63 % 
-IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+VS Code                  2 hrs 44 mins       ████████████████████████░   94.58 % 
+IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🐱‍💻 Projects: 
-Flockade                 2 hrs 46 mins       ████████████████████████░   94.63 % 
-The Broken Chains        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Flockade                 2 hrs 44 mins       ████████████████████████░   94.58 % 
+The Broken Chains        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Plushie Test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 28/03/2026 18:35:51 UTC
+ Last Updated on 28/03/2026 20:25:46 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
