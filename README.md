@@ -32,20 +32,18 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 44 mins       ████████████████████████░   94.58 % 
-Java                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Python                   1 hr 32 mins        █████████████████████████   99.99 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 44 mins       ████████████████████████░   94.58 % 
-IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+VS Code                  1 hr 32 mins        █████████████████████████   99.99 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-Flockade                 2 hrs 44 mins       ████████████████████████░   94.58 % 
-The Broken Chains        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-test                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Flockade                 1 hr 32 mins        █████████████████████████   99.99 % 
 Plushie Test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 29/03/2026 18:37:16 UTC
+ Last Updated on 29/03/2026 20:27:31 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
