@@ -28,6 +28,19 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
  > 
 > 🔑 3 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 30/03/2026 20:42:17 UTC
+```text
+💬 Programming Languages: 
+Python                   1 hr 20 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 20 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Flockade                 1 hr 20 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/03/2026 22:31:45 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
