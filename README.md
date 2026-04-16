@@ -32,15 +32,16 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████░░░░░░░░░░░░   53.89 % 
+JSON                     0 secs              ████████████░░░░░░░░░░░░░   46.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/04/2026 17:10:51 UTC
+ Last Updated on 16/04/2026 19:07:01 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
