@@ -32,16 +32,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████░░░░░░░░░░░░   53.89 % 
-JSON                     0 secs              ████████████░░░░░░░░░░░░░   46.11 % 
+Groovy                   0 secs              ██████████░░░░░░░░░░░░░░░   38.30 % 
+GitIgnore file           0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Java Properties          0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+IntelliJ IDEA            2 mins              █████████████████████░░░░   85.71 % 
+VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 
 🐱‍💻 Projects: 
-test                     0 secs              █████████████████████████   100.00 % 
+Block Info Patch         1 min               ███████████████░░░░░░░░░░   61.57 % 
+Unknown Project          0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+test                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Plushie Test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 ```
 
 
- Last Updated on 17/04/2026 18:55:28 UTC
+ Last Updated on 17/04/2026 20:40:23 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
