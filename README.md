@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-479%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,23 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Groovy                   0 secs              ██████████░░░░░░░░░░░░░░░   38.30 % 
-GitIgnore file           0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Java Properties          0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Gradle                   20 mins             ██████████░░░░░░░░░░░░░░░   40.06 % 
+Java Properties          8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Groovy                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Properties               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 mins              █████████████████████░░░░   85.71 % 
-VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+IntelliJ IDEA            47 mins             ████████████████████████░   94.77 % 
+VS Code                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🐱‍💻 Projects: 
-Block Info Patch         1 min               ███████████████░░░░░░░░░░   61.57 % 
-Unknown Project          0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-test                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Plushie Test             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+ExtendBuildLimit         42 mins             █████████████████████░░░░   84.97 % 
+extended-build-limit-1.182 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+The Broken Chains        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Block Info Patch         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Creative Mod Name        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 ```
 
 
- Last Updated on 20/04/2026 17:01:01 UTC
+ Last Updated on 20/04/2026 18:59:45 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
