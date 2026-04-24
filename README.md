@@ -32,25 +32,25 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-JSON                     20 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Gradle                   20 mins             ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Java Properties          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Groovy                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+JSON                     20 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Gradle                   20 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
+Java Properties          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Groovy                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr                █████████████████████░░░░   84.95 % 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Visual Studio            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+IntelliJ IDEA            58 mins             █████████████████████░░░░   84.47 % 
+VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Visual Studio            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 🐱‍💻 Projects: 
-ExtendBuildLimit         55 mins             ████████████████████░░░░░   78.07 % 
-Py_srs                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-extended-build-limit-1.182 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-Recursion_On_Steroid     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-The Broken Chains        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+ExtendBuildLimit         55 mins             ████████████████████░░░░░   80.54 % 
+Py_srs                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+extended-build-limit-1.182 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Recursion_On_Steroid     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+The Broken Chains        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 
 
- Last Updated on 24/04/2026 18:43:21 UTC
+ Last Updated on 24/04/2026 20:42:14 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
