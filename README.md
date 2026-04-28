@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,25 +32,25 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-JSON                     40 mins             ██████████████░░░░░░░░░░░   56.53 % 
-Java                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Properties               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
-Groovy                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Java                     54 mins             █████████░░░░░░░░░░░░░░░░   37.16 % 
+JSON                     42 mins             ███████░░░░░░░░░░░░░░░░░░   29.27 % 
+Properties               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+Java Properties          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 2 mins         ██████████████████████░░░   88.01 % 
-VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-Visual Studio            2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+IntelliJ IDEA            2 hrs 16 mins       ███████████████████████░░   93.04 % 
+VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Visual Studio            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        49 mins             █████████████████░░░░░░░░   69.46 % 
-ExtendBuildLimit         13 mins             █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Py_srs                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Recursion_On_Steroid     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Plushie Test             58 mins             ██████████░░░░░░░░░░░░░░░   39.90 % 
+The Broken Chains        49 mins             ████████░░░░░░░░░░░░░░░░░   34.00 % 
+Creative Mod Name        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Py_srs                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+ExtendBuildLimit         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 
 
- Last Updated on 28/04/2026 19:27:50 UTC
+ Last Updated on 28/04/2026 21:04:18 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
