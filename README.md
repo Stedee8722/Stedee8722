@@ -32,25 +32,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     54 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
-JSON                     42 mins             ████████░░░░░░░░░░░░░░░░░   30.80 % 
-Properties               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Java Properties          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Gradle                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Java                     54 mins             ██████████░░░░░░░░░░░░░░░   39.94 % 
+JSON                     42 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
+Properties               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Java Properties          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Gradle                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 16 mins       ████████████████████████░   97.89 % 
-Visual Studio            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+IntelliJ IDEA            2 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plushie Test             58 mins             ██████████░░░░░░░░░░░░░░░   41.98 % 
-The Broken Chains        49 mins             █████████░░░░░░░░░░░░░░░░   35.78 % 
-Creative Mod Name        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-ExtendBuildLimit         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-ExtendBuildLimitForge    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Plushie Test             58 mins             ███████████░░░░░░░░░░░░░░   42.88 % 
+The Broken Chains        49 mins             █████████░░░░░░░░░░░░░░░░   36.55 % 
+Creative Mod Name        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+ExtendBuildLimit         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+ExtendBuildLimitForge    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 
- Last Updated on 30/04/2026 17:16:53 UTC
+ Last Updated on 30/04/2026 19:14:48 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
