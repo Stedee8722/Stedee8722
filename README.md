@@ -32,23 +32,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     54 mins             ██████████░░░░░░░░░░░░░░░   39.94 % 
-JSON                     42 mins             ████████░░░░░░░░░░░░░░░░░   31.46 % 
-Properties               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Java Properties          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Gradle                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Java                     42 mins             ████████████░░░░░░░░░░░░░   49.09 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Properties               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Java Properties          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 16 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plushie Test             58 mins             ███████████░░░░░░░░░░░░░░   42.88 % 
-The Broken Chains        49 mins             █████████░░░░░░░░░░░░░░░░   36.55 % 
-Creative Mod Name        15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-ExtendBuildLimit         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-ExtendBuildLimitForge    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Plushie Test             58 mins             █████████████████░░░░░░░░   67.56 % 
+Creative Mod Name        15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+ExtendBuildLimit         5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+ExtendBuildLimitForge    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 
- Last Updated on 03/05/2026 18:54:39 UTC
+ Last Updated on 03/05/2026 20:38:27 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
