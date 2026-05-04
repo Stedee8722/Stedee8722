@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.53%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,23 +32,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     42 mins             ████████████░░░░░░░░░░░░░   49.09 % 
-JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Properties               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Java Properties          8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Java                     56 mins             ██████████████░░░░░░░░░░░   56.15 % 
+JSON                     15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Properties               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Java Properties          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 26 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Plushie Test             58 mins             █████████████████░░░░░░░░   67.56 % 
-Creative Mod Name        15 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-ExtendBuildLimit         5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-ExtendBuildLimitForge    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Plushie Test             1 hr 11 mins        ██████████████████░░░░░░░   70.55 % 
+Creative Mod Name        15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+ExtendBuildLimit         5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+ExtendBuildLimitForge    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Unknown Project          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 ```
 
 
- Last Updated on 04/05/2026 17:44:16 UTC
+ Last Updated on 04/05/2026 19:24:00 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
