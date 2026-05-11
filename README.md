@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     13 hrs 24 mins      █████████████████░░░░░░░░   68.71 % 
-JSON                     2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Groovy                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
-Gradle                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-GitIgnore file           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Java                     13 hrs 10 mins      █████████████████░░░░░░░░   68.33 % 
+JSON                     2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+Groovy                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Gradle                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+GitIgnore file           36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-IntelliJ IDEA            19 hrs 29 mins      █████████████████████████   99.83 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+IntelliJ IDEA            19 hrs 15 mins      █████████████████████████   99.82 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        17 hrs 40 mins      ███████████████████████░░   90.50 % 
-Plushie Test             56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Creative Mod Name        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-The Broken Chains (old)  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+The Broken Chains        17 hrs 38 mins      ███████████████████████░░   91.46 % 
+Plushie Test             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Creative Mod Name        31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+The Broken Chains (old)  22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 
- Last Updated on 11/05/2026 17:51:47 UTC
+ Last Updated on 11/05/2026 19:42:01 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
