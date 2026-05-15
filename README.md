@@ -12,15 +12,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-528%20hrs%204%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-110.65%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.12%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 123.1 kB Used in GitHub's Storage 
+> 📦 123.2 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,24 +30,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     17 hrs              ███████████████████████░░   90.60 % 
-JSON                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Groovy                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Gradle                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-CLASS                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Java                     24 hrs 55 mins      ███████████████████████░░   92.23 % 
+JSON                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+CLASS                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Mixin Json Configuration 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 hrs 44 mins      █████████████████████████   99.85 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+IntelliJ IDEA            26 hrs 39 mins      █████████████████████████   98.66 % 
+VS Code                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        16 hrs 45 mins      ██████████████████████░░░   89.23 % 
-Creative Mod Name        1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Plushie Test             24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-The Broken Chains (old)  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+The Broken Chains        22 hrs 59 mins      █████████████████████░░░░   85.06 % 
+Creative Mod Name        2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+mod_1.21.11              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Plushie Test             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+mounts_of_mayhem-1.9.7-ne21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 ```
 
 
- Last Updated on 15/05/2026 16:04:25 UTC
+ Last Updated on 15/05/2026 19:25:44 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
