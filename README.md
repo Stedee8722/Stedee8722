@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-532%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.20%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -51,5 +51,5 @@ Plushie Test             20 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 20/05/2026 14:54:51 UTC
+ Last Updated on 20/05/2026 18:13:31 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
