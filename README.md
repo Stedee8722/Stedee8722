@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     20 hrs 41 mins      ██████████████████████░░░   89.74 % 
-JSON                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-CLASS                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Java                     16 hrs 38 mins      ██████████████████████░░░   87.55 % 
+JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+CLASS                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 hrs 50 mins      ████████████████████████░   94.73 % 
-VS Code                  1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+IntelliJ IDEA            17 hrs 47 mins      ███████████████████████░░   93.61 % 
+VS Code                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        18 hrs 30 mins      ████████████████████░░░░░   80.31 % 
-Creative Mod Name        2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Dicey_Rewritten          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-mod_1.21.11              25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-mounts_of_mayhem-1.9.7-ne21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+The Broken Chains        15 hrs 38 mins      █████████████████████░░░░   82.32 % 
+Creative Mod Name        1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+Dicey_Rewritten          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+mod_1.21.11              25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+mounts_of_mayhem-1.9.7-ne21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 
- Last Updated on 21/05/2026 17:54:01 UTC
+ Last Updated on 21/05/2026 19:48:48 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
