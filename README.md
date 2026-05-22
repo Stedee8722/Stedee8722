@@ -32,24 +32,22 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     16 hrs 38 mins      ██████████████████████░░░   87.55 % 
-JSON                     1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Python                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-CLASS                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Gradle                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Java                     3 hrs 45 mins       ████████████████████░░░░░   80.06 % 
+Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Mixin Json Configuration 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🔥 Editors: 
-IntelliJ IDEA            17 hrs 47 mins      ███████████████████████░░   93.61 % 
-VS Code                  1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+IntelliJ IDEA            3 hrs 50 mins       ████████████████████░░░░░   81.86 % 
+VS Code                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        15 hrs 38 mins      █████████████████████░░░░   82.32 % 
-Creative Mod Name        1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-Dicey_Rewritten          37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-mod_1.21.11              25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-mounts_of_mayhem-1.9.7-ne21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+The Broken Chains        3 hrs 50 mins       ████████████████████░░░░░   81.86 % 
+Dicey_Rewritten          37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+the_wonderland-2.1.4-1.2013 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 
- Last Updated on 22/05/2026 17:48:35 UTC
+ Last Updated on 22/05/2026 19:39:38 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
