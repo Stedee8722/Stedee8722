@@ -12,6 +12,8 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2027%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.20%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -30,22 +32,22 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 45 mins       ████████████████████░░░░░   80.06 % 
-Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Mixin Json Configuration 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Java                     2 hrs 33 mins       ██████████████████░░░░░░░   73.18 % 
+Python                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Mixin Json Configuration 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 50 mins       ████████████████████░░░░░   81.86 % 
-VS Code                  51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+IntelliJ IDEA            2 hrs 38 mins       ███████████████████░░░░░░   75.60 % 
+VS Code                  51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        3 hrs 50 mins       ████████████████████░░░░░   81.86 % 
-Dicey_Rewritten          37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-the_wonderland-2.1.4-1.2013 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+The Broken Chains        2 hrs 38 mins       ███████████████████░░░░░░   75.60 % 
+Dicey_Rewritten          37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
+the_wonderland-2.1.4-1.2013 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
 
- Last Updated on 23/05/2026 19:04:14 UTC
+ Last Updated on 23/05/2026 20:44:23 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
