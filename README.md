@@ -32,22 +32,18 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     2 hrs 33 mins       ██████████████████░░░░░░░   73.18 % 
-Python                   37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Mixin Json Configuration 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Java                     58 mins             █████████████████░░░░░░░░   67.91 % 
+Python                   27 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            2 hrs 38 mins       ███████████████████░░░░░░   75.60 % 
-VS Code                  51 mins             ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+IntelliJ IDEA            58 mins             █████████████████░░░░░░░░   67.91 % 
+VS Code                  27 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        2 hrs 38 mins       ███████████████████░░░░░░   75.60 % 
-Dicey_Rewritten          37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-the_wonderland-2.1.4-1.2013 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+The Broken Chains        58 mins             █████████████████░░░░░░░░   67.91 % 
+Dicey_Rewritten          27 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
 ```
 
 
- Last Updated on 26/05/2026 18:23:01 UTC
+ Last Updated on 26/05/2026 21:40:51 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
