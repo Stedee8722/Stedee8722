@@ -32,18 +32,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     58 mins             █████████████████░░░░░░░░   67.91 % 
-Python                   27 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            58 mins             █████████████████░░░░░░░░   67.91 % 
-VS Code                  27 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-The Broken Chains        58 mins             █████████████████░░░░░░░░   67.91 % 
-Dicey_Rewritten          27 mins             ████████░░░░░░░░░░░░░░░░░   32.09 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/05/2026 18:23:38 UTC
+ Last Updated on 27/05/2026 21:50:19 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
