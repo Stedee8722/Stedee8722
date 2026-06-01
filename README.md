@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2031%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.20%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,15 +32,21 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+Python                   6 mins              █████████████░░░░░░░░░░░░   53.70 % 
+Java                     5 mins              ████████████░░░░░░░░░░░░░   46.26 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████░░░░░░░░░░░░   53.70 % 
+IntelliJ IDEA            5 mins              ████████████░░░░░░░░░░░░░   46.30 % 
 
 🐱‍💻 Projects: 
-Dicey_Rewritten          3 mins              █████████████████████████   100.00 % 
+Plushie Test             4 mins              ███████████░░░░░░░░░░░░░░   42.86 % 
+Dicey_Rewritten          3 mins              ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Py                       2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
+The Broken Chains        0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 ```
 
 
- Last Updated on 01/06/2026 15:52:26 UTC
+ Last Updated on 01/06/2026 20:13:50 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
