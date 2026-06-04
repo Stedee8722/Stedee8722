@@ -28,6 +28,26 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
  > 
 > 🔑 4 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/06/2026 21:49:19 UTC
+```text
+💬 Programming Languages: 
+Python                   9 mins              ████████████░░░░░░░░░░░░░   49.70 % 
+Java                     6 mins              ████████░░░░░░░░░░░░░░░░░   31.62 % 
+JSON                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+
+🔥 Editors: 
+VS Code                  13 mins             █████████████████░░░░░░░░   68.35 % 
+IntelliJ IDEA            6 mins              ████████░░░░░░░░░░░░░░░░░   31.65 % 
+
+🐱‍💻 Projects: 
+Py                       6 mins              ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Plushie Test             4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+JS                       3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+Dicey_Rewritten          3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+The Broken Chains        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+```
+
+
+ Last Updated on 04/06/2026 23:06:13 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
