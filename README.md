@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-534%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.20%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,22 +32,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   9 mins              ████████████░░░░░░░░░░░░░   49.70 % 
-Java                     6 mins              ████████░░░░░░░░░░░░░░░░░   31.62 % 
-JSON                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+JSON                     43 mins             ██████████████████░░░░░░░   73.06 % 
+Python                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Java                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+mcfunction               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████░░░░░░░░   68.35 % 
-IntelliJ IDEA            6 mins              ████████░░░░░░░░░░░░░░░░░   31.65 % 
+VS Code                  53 mins             ██████████████████████░░░   89.73 % 
+IntelliJ IDEA            6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 
 🐱‍💻 Projects: 
-Py                       6 mins              ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Plushie Test             4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-JS                       3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Dicey_Rewritten          3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-The Broken Chains        1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+MothlingRework v0.0.1    20 mins             ████████░░░░░░░░░░░░░░░░░   34.00 % 
+Datapack for Origins     16 mins             ███████░░░░░░░░░░░░░░░░░░   27.39 % 
+Py                       6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Plushie Test             4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 
- Last Updated on 05/06/2026 19:49:07 UTC
+ Last Updated on 05/06/2026 21:21:56 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
