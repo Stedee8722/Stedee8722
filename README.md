@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Groovy                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Java                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Gradle                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-INI                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Groovy                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+JSON                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+Java                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Gradle                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+INI                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 37 mins       ██████████████████████░░░   87.96 % 
-VS Code                  46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+IntelliJ IDEA            5 hrs 37 mins       ██████████████████████░░░   89.41 % 
+VS Code                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 
 🐱‍💻 Projects: 
-ASPatch                  4 hrs 31 mins       ██████████████████░░░░░░░   70.88 % 
-Unknown Project          50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-MothlingRework v0.0.1    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Datapack for Origins     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-AstralLevelNerf          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+ASPatch                  4 hrs 31 mins       ██████████████████░░░░░░░   72.05 % 
+Unknown Project          50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+MothlingRework v0.0.1    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Datapack for Origins     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+AstralLevelNerf          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 
 
- Last Updated on 09/06/2026 17:59:11 UTC
+ Last Updated on 09/06/2026 20:12:39 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
