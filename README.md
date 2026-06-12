@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-540%20hrs%2039%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.20%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Groovy                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-JSON                     1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Java                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Gradle                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-INI                      45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Groovy                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+Java                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+INI                      54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Gradle                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 37 mins       ██████████████████████░░░   89.41 % 
-VS Code                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+IntelliJ IDEA            5 hrs 37 mins       ██████████████████████░░░   89.56 % 
+VS Code                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 
 🐱‍💻 Projects: 
-ASPatch                  4 hrs 31 mins       ██████████████████░░░░░░░   72.07 % 
-Unknown Project          50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-MothlingRework v0.0.1    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Datapack for Origins     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+ASPatch                  4 hrs 31 mins       ██████████████████░░░░░░░   72.19 % 
+Unknown Project          47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+AstralSorcery            39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 AstralLevelNerf          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Creative Mod Name        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 ```
 
 
- Last Updated on 12/06/2026 20:04:46 UTC
+ Last Updated on 12/06/2026 23:13:56 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
