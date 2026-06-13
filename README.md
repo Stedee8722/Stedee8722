@@ -32,24 +32,22 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Groovy                   1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Java                     1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-INI                      54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Gradle                   52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+INI                      46 mins             ████████░░░░░░░░░░░░░░░░░   30.08 % 
+Java                     45 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Properties               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Groovy                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 37 mins       ██████████████████████░░░   89.56 % 
-VS Code                  39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+IntelliJ IDEA            1 hr 56 mins        ███████████████████░░░░░░   74.75 % 
+VS Code                  39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 
 🐱‍💻 Projects: 
-ASPatch                  4 hrs 31 mins       ██████████████████░░░░░░░   72.19 % 
-Unknown Project          47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-AstralSorcery            39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-AstralLevelNerf          12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-Creative Mod Name        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+ASPatch                  1 hr 33 mins        ███████████████░░░░░░░░░░   59.93 % 
+AstralSorcery            39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+Unknown Project          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 ```
 
 
- Last Updated on 13/06/2026 17:19:05 UTC
+ Last Updated on 13/06/2026 19:19:55 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
