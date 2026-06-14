@@ -32,22 +32,17 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-INI                      46 mins             ████████░░░░░░░░░░░░░░░░░   30.08 % 
-Java                     45 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Properties               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Groovy                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Java                     21 mins             ██████████████░░░░░░░░░░░   55.69 % 
+INI                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Git Config               8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 56 mins        ███████████████████░░░░░░   74.75 % 
-VS Code                  39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+VS Code                  39 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ASPatch                  1 hr 33 mins        ███████████████░░░░░░░░░░   59.93 % 
-AstralSorcery            39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Unknown Project          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+AstralSorcery            39 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2026 17:17:07 UTC
+ Last Updated on 14/06/2026 19:20:18 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
