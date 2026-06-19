@@ -32,20 +32,16 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     21 mins             █████████████░░░░░░░░░░░░   52.42 % 
-INI                      9 mins              █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-Git Config               8 mins              █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AstralSorcery            39 mins             ████████████████████████░   94.12 % 
-Dicey_Rewritten          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Py                       1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Dicey_Rewritten          1 min               ██████████████░░░░░░░░░░░   57.42 % 
+Py                       1 min               ███████████░░░░░░░░░░░░░░   42.58 % 
 ```
 
 
- Last Updated on 19/06/2026 19:44:19 UTC
+ Last Updated on 19/06/2026 21:06:15 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
