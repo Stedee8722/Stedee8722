@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-546%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.34%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   37 mins             █████████████░░░░░░░░░░░░   50.75 % 
-Java                     32 mins             ███████████░░░░░░░░░░░░░░   43.60 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   5 hrs 6 mins        ██████████████████████░░░   86.64 % 
+Java                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  43 mins             ███████████████░░░░░░░░░░   58.61 % 
-IntelliJ IDEA            30 mins             ██████████░░░░░░░░░░░░░░░   41.39 % 
+VS Code                  5 hrs 22 mins       ███████████████████████░░   91.28 % 
+IntelliJ IDEA            30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 
 🐱‍💻 Projects: 
-Dicey_Rewritten          34 mins             ████████████░░░░░░░░░░░░░   46.94 % 
-The Broken Chains        30 mins             ██████████░░░░░░░░░░░░░░░   40.54 % 
-Py                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-ASPatch                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Dicey_Backup             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Dicey_Rewritten          5 hrs 13 mins       ██████████████████████░░░   88.82 % 
+The Broken Chains        30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Py                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+ASPatch                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Dicey_Backup             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 22/06/2026 19:22:03 UTC
+ Last Updated on 22/06/2026 22:00:02 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
