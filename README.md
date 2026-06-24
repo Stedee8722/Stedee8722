@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   5 hrs 6 mins        ██████████████████████░░░   86.64 % 
-Java                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   5 hrs 3 mins        ██████████████████████░░░   86.55 % 
+Java                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 22 mins       ███████████████████████░░   91.28 % 
-IntelliJ IDEA            30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+VS Code                  5 hrs 20 mins       ███████████████████████░░   91.22 % 
+IntelliJ IDEA            30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 
 🐱‍💻 Projects: 
-Dicey_Rewritten          5 hrs 13 mins       ██████████████████████░░░   88.82 % 
-The Broken Chains        30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Py                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Dicey_Rewritten          5 hrs 12 mins       ██████████████████████░░░   89.04 % 
+The Broken Chains        30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Py                       5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ASPatch                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 Dicey_Backup             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 24/06/2026 17:51:15 UTC
+ Last Updated on 24/06/2026 19:41:23 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
