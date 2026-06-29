@@ -32,21 +32,18 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 28 mins       █████████████████████░░░░   84.76 % 
-Game Maker Language      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Game Maker Language      37 mins             █████████████████████████   99.92 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 16 mins       █████████████████████████   99.99 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+VS Code                  37 mins             █████████████████████████   99.92 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-Dicey_Rewritten          4 hrs 39 mins       ██████████████████████░░░   88.09 % 
-test                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-The Broken Chains        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+test                     37 mins             █████████████████████████   99.92 % 
+The Broken Chains        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 
- Last Updated on 29/06/2026 18:06:45 UTC
+ Last Updated on 29/06/2026 21:23:04 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
