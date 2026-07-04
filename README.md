@@ -32,18 +32,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Game Maker Language      37 mins             █████████████████████████   99.92 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Game Maker Language      9 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   99.92 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-test                     37 mins             █████████████████████████   99.92 % 
-The Broken Chains        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+test                     9 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2026 19:04:55 UTC
+ Last Updated on 04/07/2026 20:52:21 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
