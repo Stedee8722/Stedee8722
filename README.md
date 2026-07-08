@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-547%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.34%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,15 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     6 mins              ████████████░░░░░░░░░░░░░   46.79 % 
+C#                       6 mins              ███████████░░░░░░░░░░░░░░   43.35 % 
+XML                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            7 mins              █████████████░░░░░░░░░░░░   53.21 % 
+IntelliJ IDEA            6 mins              ████████████░░░░░░░░░░░░░   46.79 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+COTL_API                 7 mins              █████████████░░░░░░░░░░░░   51.54 % 
+The Broken Chains        6 mins              ████████████░░░░░░░░░░░░░   46.79 % 
+GuitarVolumeControl      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
- Last Updated on 08/07/2026 17:46:44 UTC
+ Last Updated on 08/07/2026 19:19:13 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
