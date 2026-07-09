@@ -32,20 +32,20 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     6 mins              ████████████░░░░░░░░░░░░░   46.79 % 
-C#                       6 mins              ███████████░░░░░░░░░░░░░░   43.35 % 
-XML                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+Java                     7 mins              ████████████░░░░░░░░░░░░░   47.35 % 
+C#                       6 mins              ███████████░░░░░░░░░░░░░░   42.89 % 
+XML                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 
 🔥 Editors: 
-Visual Studio            7 mins              █████████████░░░░░░░░░░░░   53.21 % 
-IntelliJ IDEA            6 mins              ████████████░░░░░░░░░░░░░   46.79 % 
+Visual Studio            7 mins              █████████████░░░░░░░░░░░░   52.65 % 
+IntelliJ IDEA            7 mins              ████████████░░░░░░░░░░░░░   47.35 % 
 
 🐱‍💻 Projects: 
-COTL_API                 7 mins              █████████████░░░░░░░░░░░░   51.54 % 
-The Broken Chains        6 mins              ████████████░░░░░░░░░░░░░   46.79 % 
-GuitarVolumeControl      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+COTL_API                 7 mins              █████████████░░░░░░░░░░░░   51.00 % 
+The Broken Chains        7 mins              ████████████░░░░░░░░░░░░░   47.35 % 
+GuitarVolumeControl      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 
- Last Updated on 09/07/2026 17:51:57 UTC
+ Last Updated on 09/07/2026 19:38:59 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
