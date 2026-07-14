@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-551%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.97%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,25 +32,25 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-XML                      1 hr 50 mins        ████████████░░░░░░░░░░░░░   46.77 % 
-C#                       1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   38.23 % 
-Binary                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+XML                      1 hr 50 mins        ███████████░░░░░░░░░░░░░░   44.66 % 
+C#                       1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   36.98 % 
+Binary                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 28 mins       ██████████████████████░░░   88.06 % 
-VS Code                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Visual Studio            3 hrs 32 mins       █████████████████████░░░░   85.79 % 
+VS Code                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 🐱‍💻 Projects: 
-ProjectC                 2 hrs 23 mins       ███████████████░░░░░░░░░░   60.86 % 
-ProjectCultModding       40 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-COTL_API                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-EnduranceBadgeFix        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-The Broken Chains        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+ProjectC                 2 hrs 28 mins       ███████████████░░░░░░░░░░   59.81 % 
+ProjectCultModding       40 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+COTL_API                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+EnduranceBadgeFix        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 
 
- Last Updated on 14/07/2026 17:10:44 UTC
+ Last Updated on 14/07/2026 19:13:14 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
