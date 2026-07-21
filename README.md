@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-570%20hrs%2013%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.98%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       10 hrs 26 mins      ██████████████░░░░░░░░░░░   56.77 % 
-Binary                   5 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-XML                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-TOML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Rust                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+C#                       10 hrs 55 mins      ██████████████░░░░░░░░░░░   57.65 % 
+Binary                   5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+TOML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Rust                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Visual Studio            16 hrs 47 mins      ███████████████████████░░   91.32 % 
-VS Code                  1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Visual Studio            17 hrs 28 mins      ███████████████████████░░   92.18 % 
+VS Code                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🐱‍💻 Projects: 
-ProjectC                 14 hrs 28 mins      ████████████████████░░░░░   78.70 % 
-test                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-burnt-sushi              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-ExportedProject          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-AssetRipper              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+ProjectC                 14 hrs 40 mins      ███████████████████░░░░░░   77.40 % 
+test                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+burnt-sushi              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+ExportedProject          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 ```
 
 
- Last Updated on 21/07/2026 17:13:38 UTC
+ Last Updated on 21/07/2026 19:14:45 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
