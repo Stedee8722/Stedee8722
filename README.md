@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       10 hrs 55 mins      ██████████████░░░░░░░░░░░   57.65 % 
-Binary                   5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-TOML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Rust                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+C#                       9 hrs 9 mins        ██████████████░░░░░░░░░░░   56.74 % 
+Binary                   4 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+XML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+TOML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+Rust                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-Visual Studio            17 hrs 28 mins      ███████████████████████░░   92.18 % 
-VS Code                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Visual Studio            14 hrs 52 mins      ███████████████████████░░   92.23 % 
+VS Code                  1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🐱‍💻 Projects: 
-ProjectC                 14 hrs 40 mins      ███████████████████░░░░░░   77.40 % 
-test                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-burnt-sushi              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-ExportedProject          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+ProjectC                 12 hrs              ███████████████████░░░░░░   74.45 % 
+test                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+burnt-sushi              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+ExportedProject          29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Unknown Project          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
 ```
 
 
- Last Updated on 22/07/2026 17:12:52 UTC
+ Last Updated on 22/07/2026 19:09:15 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
