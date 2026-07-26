@@ -32,24 +32,24 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 56 mins       ██████████████░░░░░░░░░░░   56.74 % 
-Binary                   4 hrs               ██████████░░░░░░░░░░░░░░░   38.23 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Java                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C#                       3 hrs 14 mins       ██████████████████░░░░░░░   72.77 % 
+Binary                   55 mins             █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Visual Studio            10 hrs 17 mins      █████████████████████████   98.07 % 
-IntelliJ IDEA            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Visual Studio            4 hrs 15 mins       ████████████████████████░   95.47 % 
+IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 
 🐱‍💻 Projects: 
-ProjectC                 7 hrs 27 mins       ██████████████████░░░░░░░   71.13 % 
-test                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Unknown Project          32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-My project               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-The Broken Chains        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+test                     1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   39.43 % 
+ProjectC                 1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   32.22 % 
+Unknown Project          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+My project               27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+The Broken Chains        7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 ```
 
 
- Last Updated on 26/07/2026 19:04:15 UTC
+ Last Updated on 26/07/2026 20:53:52 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
