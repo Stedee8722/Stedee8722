@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -34,23 +34,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       4 hrs 29 mins       ███████████████████░░░░░░   74.40 % 
-Binary                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
-Java                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C#                       4 hrs 1 min         ██████████████░░░░░░░░░░░   54.69 % 
+C++                      1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   25.17 % 
+Binary                   1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Java                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-Visual Studio            5 hrs 50 mins       ████████████████████████░   96.58 % 
-IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Visual Studio            7 hrs 12 mins       ████████████████████████░   97.75 % 
+IntelliJ IDEA            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-ProjectC                 2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.01 % 
-empty                    1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-test                     1 hr 14 mins        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
-My project               22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+ProjectC                 2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.41 % 
+OOP                      1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+empty                    1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+test                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+The Broken Chains        9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,5 +60,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/08/2026 19:02:34 UTC
+ Last Updated on 01/08/2026 20:45:32 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
