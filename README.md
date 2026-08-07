@@ -30,6 +30,35 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
  > 
 > 🔑 5 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 07/08/2026 02:27:53 UTC
+```text
+💬 Programming Languages: 
+C++                      1 hr 51 mins        ██████████████████████░░░   87.13 % 
+C#                       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Java                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+
+🔥 Editors: 
+Visual Studio            1 hr 58 mins        ███████████████████████░░   92.43 % 
+IntelliJ IDEA            9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+
+🐱‍💻 Projects: 
+OOP                      1 hr 48 mins        █████████████████████░░░░   85.03 % 
+The Broken Chains        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+ProjectC                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Person                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 07/08/2026 05:37:16 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
