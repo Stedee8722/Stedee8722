@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -34,23 +34,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.40 % 
-C++                      2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.45 % 
-Binary                   1 hr 58 mins        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+C#                       2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.82 % 
+C++                      2 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.20 % 
+Binary                   1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Java                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Gradle                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 🔥 Editors: 
-Visual Studio            6 hrs 45 mins       ████████████████████████░   95.99 % 
-IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Visual Studio            6 hrs 35 mins       ████████████████████████░   95.89 % 
+IntelliJ IDEA            12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🐱‍💻 Projects: 
-ProjectC                 2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.20 % 
-SoftwareHouse            1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-test                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-LibraryApp               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-AssetRipper              22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+ProjectC                 2 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+SoftwareHouse            1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+test                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+COTL_API                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+LibraryApp               28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,5 +60,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2026 18:32:34 UTC
+ Last Updated on 17/08/2026 20:20:52 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
