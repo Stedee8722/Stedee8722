@@ -34,23 +34,23 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       10 hrs 4 mins       ████████████████░░░░░░░░░   62.68 % 
-Binary                   2 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-C++                      2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+C#                       9 hrs 23 mins       ███████████████░░░░░░░░░░   61.24 % 
+Binary                   2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+C++                      2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Visual Studio            15 hrs 8 mins       ████████████████████████░   94.23 % 
-IntelliJ IDEA            45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Visual Studio            14 hrs 25 mins      ███████████████████████░░   93.96 % 
+IntelliJ IDEA            45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+VS Code                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-COTL_API                 8 hrs 42 mins       ██████████████░░░░░░░░░░░   54.21 % 
-ProjectC                 1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-CotLTemplateMod          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-ProjectSF                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Test1                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+COTL_API                 8 hrs 16 mins       █████████████░░░░░░░░░░░░   53.93 % 
+ProjectC                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+CotLTemplateMod          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+ProjectSF                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Test1                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -60,5 +60,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 24/08/2026 18:33:41 UTC
+ Last Updated on 24/08/2026 20:24:53 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
