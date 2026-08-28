@@ -34,22 +34,22 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       8 hrs 43 mins       ████████████████░░░░░░░░░   62.76 % 
-Binary                   2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-C++                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Java                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+C#                       3 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.43 % 
+C++                      1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Binary                   1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+Java                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🔥 Editors: 
-Visual Studio            13 hrs 9 mins       ████████████████████████░   94.57 % 
-IntelliJ IDEA            45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Visual Studio            7 hrs 19 mins       ███████████████████████░░   90.67 % 
+IntelliJ IDEA            45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 🐱‍💻 Projects: 
-COTL_API                 7 hrs 33 mins       ██████████████░░░░░░░░░░░   54.36 % 
-CotLTemplateMod          1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-ProjectC                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-ProjectSF                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Test1                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+COTL_API                 2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+CotLTemplateMod          1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+ProjectSF                1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Test1                    1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+TrungTamHocThem          44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,5 +59,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/08/2026 18:47:15 UTC
+ Last Updated on 28/08/2026 04:00:29 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
