@@ -34,22 +34,22 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 54 mins        █████████░░░░░░░░░░░░░░░░   36.40 % 
-C#                       1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-Binary                   58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
-Java                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Java                     21 mins             █████████████████████████   98.24 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Visual Studio            4 hrs 28 mins       █████████████████████░░░░   85.55 % 
-IntelliJ IDEA            45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+IntelliJ IDEA            21 mins             █████████████████████████   98.24 % 
+Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-CotLTemplateMod          1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-ProjectSF                1 hr 3 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Test1                    1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-TrungTamHocThem          44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-The Broken Chains        23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Creative Mod Name        11 mins             █████████████░░░░░░░░░░░░   51.44 % 
+The Broken Chains        9 mins              ███████████░░░░░░░░░░░░░░   44.57 % 
+Plushie Test             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+ProjectSF                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+AssetRipper              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,5 +59,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/08/2026 19:08:20 UTC
+ Last Updated on 29/08/2026 22:16:31 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
