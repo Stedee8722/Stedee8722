@@ -34,22 +34,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     21 mins             █████████████████████████   98.24 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+XML                      0 secs              ███████████████░░░░░░░░░░   59.81 % 
+C#                       0 secs              ██████████░░░░░░░░░░░░░░░   39.43 % 
+Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-IntelliJ IDEA            21 mins             █████████████████████████   98.24 % 
-Visual Studio            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Visual Studio            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Creative Mod Name        11 mins             █████████████░░░░░░░░░░░░   51.44 % 
-The Broken Chains        9 mins              ███████████░░░░░░░░░░░░░░   44.57 % 
-Plushie Test             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-ProjectSF                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-AssetRipper              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+AssetRipper              0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,5 +52,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/08/2026 19:00:53 UTC
+ Last Updated on 30/08/2026 22:20:48 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
