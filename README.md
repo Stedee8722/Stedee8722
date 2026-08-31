@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -34,15 +34,16 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-XML                      0 secs              ███████████████░░░░░░░░░░   59.81 % 
-C#                       0 secs              ██████████░░░░░░░░░░░░░░░   39.43 % 
-Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+C#                       4 mins              █████████████████████████   98.66 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.00 % 
+Visual Studio            4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AssetRipper              0 secs              █████████████████████████   100.00 % 
+ProjectSF                4 mins              ████████████████████████░   97.79 % 
+AssetRipper              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -52,5 +53,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 18:41:31 UTC
+ Last Updated on 31/08/2026 23:35:35 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
