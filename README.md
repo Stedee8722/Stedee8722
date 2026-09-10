@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-601%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-603%20hrs%207%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -34,17 +34,21 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 4 mins         ███████████████████████░░   93.62 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-Binary                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+C#                       1 hr 31 mins        ████████████████░░░░░░░░░   63.46 % 
+Binary                   33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 8 mins         █████████████████████████   100.00 % 
+Visual Studio            2 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-empty                    1 hr 7 mins         █████████████████████████   99.11 % 
-AssetRipper              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+empty                    1 hr 17 mins        █████████████░░░░░░░░░░░░   53.29 % 
+CotLTemplateMod          34 mins             ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+ProjectStormflake        16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+ProjectSF                15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+AssetRipper              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -54,5 +58,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2026 18:55:09 UTC
+ Last Updated on 10/09/2026 22:13:45 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
