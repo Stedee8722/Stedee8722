@@ -34,21 +34,21 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.31 % 
-C++                      1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.93 % 
-Binary                   33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+C#                       1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.39 % 
+C++                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
+Binary                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
 Visual Studio            3 hrs 53 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-empty                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.01 % 
-Test2                    1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.56 % 
-CotLTemplateMod          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-ProjectStormflake        16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-ProjectSF                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+empty                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.10 % 
+Test2                    1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.64 % 
+CotLTemplateMod          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+ProjectStormflake        16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+ProjectSF                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,5 +58,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/09/2026 16:08:18 UTC
+ Last Updated on 14/09/2026 21:23:28 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
