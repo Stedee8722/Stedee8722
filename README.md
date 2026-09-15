@@ -34,21 +34,21 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   39.39 % 
-C++                      1 hr 28 mins        ██████████░░░░░░░░░░░░░░░   38.03 % 
-Binary                   32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C++                      1 hr 28 mins        █████████████░░░░░░░░░░░░   53.61 % 
+Binary                   32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+C#                       27 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Bash                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 53 mins       █████████████████████████   100.00 % 
+Visual Studio            2 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-empty                    1 hr 17 mins        ████████░░░░░░░░░░░░░░░░░   33.10 % 
-Test2                    1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   30.64 % 
-CotLTemplateMod          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-ProjectStormflake        16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-ProjectSF                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Test2                    1 hr 11 mins        ███████████░░░░░░░░░░░░░░   43.19 % 
+CotLTemplateMod          34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+ProjectStormflake        16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+ProjectSF                15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+TestTemplate             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,5 +58,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/09/2026 17:54:34 UTC
+ Last Updated on 15/09/2026 20:49:17 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
