@@ -34,21 +34,17 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C++                      1 hr 28 mins        ████████████░░░░░░░░░░░░░   48.93 % 
-Java                     1 hr 25 mins        ████████████░░░░░░░░░░░░░   47.37 % 
-C#                       6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Java                     1 hr 25 mins        ███████████████████████░░   93.04 % 
+C#                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 35 mins        █████████████░░░░░░░░░░░░   52.63 % 
-IntelliJ IDEA            1 hr 25 mins        ████████████░░░░░░░░░░░░░   47.37 % 
+IntelliJ IDEA            1 hr 25 mins        ███████████████████████░░   93.04 % 
+Visual Studio            6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        1 hr 19 mins        ███████████░░░░░░░░░░░░░░   43.83 % 
-Test2                    1 hr 11 mins        ██████████░░░░░░░░░░░░░░░   39.41 % 
-TestTemplate             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Creative Mod Name        6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-ProjectSF                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+The Broken Chains        1 hr 19 mins        ██████████████████████░░░   86.08 % 
+Creative Mod Name        6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+ProjectSF                6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -58,5 +54,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2026 18:50:39 UTC
+ Last Updated on 18/09/2026 22:14:09 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
