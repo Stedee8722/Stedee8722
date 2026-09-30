@@ -34,18 +34,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-C#                       1 hr 14 mins        ██████████████████░░░░░░░   73.30 % 
-Binary                   21 mins             █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ProjectSF                54 mins             ██████████████░░░░░░░░░░░   54.02 % 
-CotLTemplateMod          46 mins             ███████████░░░░░░░░░░░░░░   45.98 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -55,5 +50,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2026 14:33:13 UTC
+ Last Updated on 30/09/2026 20:30:04 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
