@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-607%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -20,7 +20,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 **🐱 My GitHub Data** 
 
-> 📦 123.5 kB Used in GitHub's Storage 
+> 📦 123.4 kB Used in GitHub's Storage 
  > 
 > 🏆 42 Contributions in the Year 2026
  > 
@@ -34,13 +34,14 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     1 hr 5 mins         ████████████████████████░   97.93 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+The Broken Chains        1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -50,5 +51,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2026 19:15:04 UTC
+ Last Updated on 16/10/2026 22:27:43 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
