@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -34,14 +34,14 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 12 mins        █████████████████████████   98.12 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Java                     1 hr 17 mins        █████████████████████████   98.25 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 13 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        1 hr 13 mins        █████████████████████████   100.00 % 
+The Broken Chains        1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -51,5 +51,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/10/2026 18:17:26 UTC
+ Last Updated on 20/10/2026 22:54:38 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
