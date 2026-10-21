@@ -12,7 +12,7 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ## Time I've spent on doing random bullshit, unpaid
 <!--START_SECTION:Time I've spent on doing random bullshit, unpaid-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -34,14 +34,15 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     1 hr 17 mins        █████████████████████████   98.25 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Java                     1 hr 35 mins        █████████████████████████   98.57 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 19 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 37 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        1 hr 19 mins        █████████████████████████   100.00 % 
+The Broken Chains        1 hr 32 mins        ████████████████████████░   95.45 % 
+Creative Mod Name        4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -51,5 +52,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 21/10/2026 19:54:13 UTC
+ Last Updated on 21/10/2026 22:59:59 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
