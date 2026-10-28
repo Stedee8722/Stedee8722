@@ -34,16 +34,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     18 mins             █████████████████████████   99.99 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            18 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-The Broken Chains        13 mins             ███████████████████░░░░░░   74.73 % 
-Creative Mod Name        4 mins              ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-ASPatch                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+ASPatch                  0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -53,5 +50,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/10/2026 14:49:13 UTC
+ Last Updated on 28/10/2026 20:44:56 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
