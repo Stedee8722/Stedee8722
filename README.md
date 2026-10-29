@@ -34,13 +34,13 @@ I code in my free time, mostly self-taught, started out doing utility Discord bo
 
 ```text
 💬 Programming Languages: 
-Java                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ASPatch                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -50,5 +50,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/10/2026 14:59:15 UTC
+ Last Updated on 29/10/2026 20:50:04 UTC
 <!--END_SECTION:Time I've spent on doing random bullshit, unpaid-->
